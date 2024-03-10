@@ -14,7 +14,7 @@ My objective in this Excel project was to showcase my skill for cleaning a data 
 ## Cleaning the dataset
 **1st Step**: Use the remove duplicates data tool to eliminate all duplicates in the dataset.
 
-**2nd Step**: Marital Status column was categorized into two letters, M and S. I used the find and replace tool to change M to Married and S to single so that it was clear what each letter represented.
+**2nd Step**: The marital status column was categorized into two letters, M and S. I used the find and replace tool to change M to Married and S to single so that it was clear what each letter represented.
 
 **3rd Step**: The gender column had single-letter abbreviations for Male and Female, so to clarify the abbreviations I used the Find and Replace tool to change them to Male and Female.
 
@@ -42,6 +42,6 @@ My objective in this Excel project was to showcase my skill for cleaning a data 
 ## Creating the Dashboard
 -The last step in this project was to compile all these pivot tables into a clean and organized dashboard. I copied and pasted all pivot tables to the dashboard sheet and put them into a 4X4 format leaving a column on the left where I would add my last piece to the dashboard.
 
--I entered 4 slicers on the left of the dashboard that could filter all the pivot tables in real-time. I the filters of marital status, region, education, and number of cars.
+-I entered 4 slicers on the left of the dashboard that could filter all the pivot tables in real-time. The filters I used were marital status, region, education, and number of cars.
 
 ![excel_dashboard](https://github.com/RCastTX/Excel_Bike_Sales_Dashboard/assets/128720212/b3416c3e-959f-42b7-be5f-125714e95d57)
