@@ -3,11 +3,11 @@
 My objective in this Excel project was to showcase my skill for cleaning a data set in Excel and then using that cleaned data to make a dashboard with critical insights into that data.
 
 ## Creating Sheets
--The first sheet would be the working sheet which would be where I cleaned all the data and made any changes to the data. I like to make a working sheet so that I have the original data safe and untouched in case I need it late. 
+-The first sheet would be the working sheet which would be where I cleaned all the data and made any changes to the data. I like to make a working sheet so that I have the original data safe and untouched in case I need it in the future. 
 
--The second sheet was used for where I would create all my pivot tables from my dashboard.
+-The second sheet I used was to hold all my pivot tables from my dashboard.
 
--The third Sheet would be where I compile and create my full dashboard.
+-The third Sheet would be where I would compile and create my full dashboard.
 
 ![Excel_Bike_Sales_starting_point](https://github.com/RCastTX/Excel_Bike_Sales_Dashboard/assets/128720212/95e0811a-5b00-435f-aa55-b45612747ffc)
 
